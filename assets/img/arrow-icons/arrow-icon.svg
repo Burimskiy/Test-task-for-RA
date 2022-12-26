@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="14mm"
+   height="8mm"
+   viewBox="0 0 14 8"
+   version="1.1"
+   id="svg3284"
+   inkscape:export-filename="arrow-icon2.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3286"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs3281">
+    <linearGradient
+       id="paint7_linear_2_472"
+       x1="175.87601"
+       y1="783.51599"
+       x2="175.87601"
+       y2="753"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,-42.587013,-199.18151)">
+      <stop
+         stop-color="#48DCA6"
+         id="stop216" />
+      <stop
+         offset="1"
+         stop-color="#48DCA6"
+         id="stop218" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 0.33475295,0.376236 c 0.4315354,-0.43523956 1.13109375,-0.43523956 1.56262915,0 L 7.0395591,5.5612755 12.181736,0.376236 c 0.431536,-0.43523956 1.131094,-0.43523956 1.562894,0 0.431535,0.4352396 0.431535,1.1406188 0,1.5758583 L 7.8211378,7.9253276 c -0.4318,0.4352396 -1.1313579,0.4352396 -1.5628933,0 L 0.33475295,1.9520943 c -0.4318,-0.4352395 -0.4318,-1.1406187 0,-1.5758583 z"
+       fill="url(#paint7_linear_2_472)"
+       id="path140"
+       style="fill:url(#paint7_linear_2_472);stroke-width:0.264583" />
+  </g>
+</svg>
