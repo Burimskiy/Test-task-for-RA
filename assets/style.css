@@ -121,7 +121,7 @@ h1.title {
 
 .circle-item {
     top: 920px;
-    right: -20;
+    right: -20px;
     position: absolute;
     opacity: 0;
 }
