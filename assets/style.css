@@ -121,7 +121,7 @@ h1.title {
 
 .circle-item {
     top: 920px;
-    right: 0;
+    right: -20;
     position: absolute;
     opacity: 0;
 }
@@ -184,6 +184,8 @@ h1.title {
     display: block;
     margin-top: 5px;
     display: inline-block;
+    max-width: 350px;
+    float: right;
 }
 
 .circle-items-text {
@@ -202,7 +204,7 @@ h1.title {
 
 .circle-item {
     overflow-x: hidden;
-    width: 500px;
+    width: 580px;
     float: right;
     /*position: relative;*/
     display: flex;
